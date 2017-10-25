@@ -1,0 +1,7 @@
+{
+  "name": "endian-and-crc",
+  "version": "0.0.1",
+  "dependencies": {
+    "crc": "^3.5.0"
+  }
+}
